@@ -1,4 +1,4 @@
-![Header](https://user-images.githubusercontent.com/90979439/172027442-926c91d5-4fba-4310-a0c2-4d6422cfd370.png)
+![Header](https://user-images.githubusercontent.com/90979439/172030628-60109e81-fd90-4493-9886-dfb8ea6974e0.png)
 
 ## 📊 Github Status
 
@@ -13,13 +13,22 @@
 
 
 ## 💻 Skills
-<p>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" style="margin: 20px 3px 20px 0; border-radius: 10px;" height="30px">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" style="margin: 20px 3px 20px 0; border-radius: 10px;" height="30px">
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" style="margin: 20px 3px 20px 0; border-radius: 10px;" height="30px">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" style="margin: 20px 3px 20px 0; border-radius: 10px;" height="30px">
-<img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" style="margin: 20px 10px 20px 0; border-radius: 10px;" height="30px">
-</p>
+
+<div style='display: flex; gap: 5px; flex-wrap: wrap; margin: 20px 0;'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height='40px'/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height='40px'/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height='40px'/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height='40px'/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='40px'/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height='40px'/>
+</div>              
+          
 
 ## 👥 Connect With Me
 <p>
