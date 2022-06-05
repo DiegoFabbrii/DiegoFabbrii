@@ -32,6 +32,6 @@
 
 ## 👥 Connect With Me
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/diego-fabbri-4779b216a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 20px 0; border-radius: 10px;" height="30px" target="_blank"></a>
+<a href="https://www.linkedin.com/in/diego-fabbri-4779b216a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 20px 0; border-radius: 10px;" height="30px" target="_blank"></a>
 </p>
 
