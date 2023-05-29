@@ -26,8 +26,11 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height='40px'/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" height='40px'/>
-</div>              
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40px"/>
+  
+ 
+          
+          
           
 
 ## 👥 Connect With Me
